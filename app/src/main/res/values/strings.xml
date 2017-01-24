@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Yumlane</string>
+    <string name="submit">Submit</string>
+    <string name="name">Name</string>
+    <string name="phone_no">Phone No</string>
+    <string name="product_purchased">Product Purchased</string>
+    <string name="welcome_to_yumlane">Welcome To Yumlane!</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="username">Name</string>
+    <string name="password">Password</string>
+    <string name="pass">Password</string>
+    <string name="uname">Username</string>
+    <string name="emptyString" />
+    <string name="thanks_for_your_purchase">Thanks for your Purchase</string>
+    <string name="welcome_to_yumlane1">WELCOME TO YUMLANE</string>
+</resources>
